@@ -26,8 +26,6 @@ public class MessageListener implements Runnable {
 
                 socket = serverSocket.accept();
 
-                System.out.println("test");
-
                 BufferedReader reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
                 String line;
 
