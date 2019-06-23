@@ -1,0 +1,3 @@
+name: RealcraftPlugin
+main: my.oljek.rc.RealcraftPlugin
+version: 0.1

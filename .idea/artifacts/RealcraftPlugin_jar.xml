@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RealcraftPlugin:jar">
+    <output-path>$USER_HOME$/Desktop/Серв/1.12.2/plugins</output-path>
+    <root id="archive" name="RealcraftPlugin.jar">
+      <element id="module-output" name="RealcraftPlugin" />
+    </root>
+  </artifact>
+</component>
